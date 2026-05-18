@@ -20,11 +20,13 @@ pruebas-aspirantes/
 │
 ├── datos/
 │ ├── datos_analisis.csv # datos limpios
-│ └── datos_en_bruto.csv # datos originales
+│ ├── datos_en_bruto.csv # datos originales
+│ └── datos_informe_final.csv # datos para storytelling
 │
 ├── notebooks/
 │ ├── 01_proceso_de_limpieza.ipynb # proceso completo de limpieza y validación
-│ └── 02_analisis_exploratorio.ipynb # análisis general
+│ ├── 02_analisis_exploratorio.ipynb # análisis general
+│ └── 03_storytelling.ipynb
 │
 └── Read.me # este archivo
 
